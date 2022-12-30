@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShahMkarimi
-- 👀 I’m interested in css & tailwindcss html
+- 👀 I’m interested in html, css & tailwindcss
 - 🌱 I’m currently learning javascript & react.js
 
 
