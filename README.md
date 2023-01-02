@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShahMkarimi / happy new year & welcome to 2023
+- 👋 Hi, I’m @ShahMkarimi /  happy new year & welcome to 2023
 - 👀 I’m interested in html, css & tailwindcss
 - 🌱 I’m currently learning javascript & react.js
 
