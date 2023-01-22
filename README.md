@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ShahMkarimi frontend web developer
 - 👀 I’m interested in html, CSS & tailwindcss
 - 🌱 I’m currently learning javascript & react.js
-
-communication with others ARE LOVLY
+      communication with others are lovely
 
 
 <!---
