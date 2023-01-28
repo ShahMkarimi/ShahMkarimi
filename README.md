@@ -2,7 +2,6 @@
 - 👀 I’m interested in html, CSS & tailwindcss
 - 🌱 I’m currently learning javascript & react.js
 -     communication with others are lovely
--     I like javascript
 
 
 
