@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShahMkarimi frontend web developer
-- 👀 I’m interested in javascript 
+- 👀 I’m interested in javascript. 
 - 🌱 I’m currently learning tailwind.css & react.js
 - 🌱 javascript is great
 
