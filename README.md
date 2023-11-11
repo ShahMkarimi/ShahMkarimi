@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShahMkarimi frontend web developer
 - 👀 I’m interested in javascript. 
-- 🌱 I’m currently learning tailwind.css & react.js
+- 🌱 I’m 100% sure nextjs 13 is the best
   
 
 
